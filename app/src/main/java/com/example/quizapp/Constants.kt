@@ -95,6 +95,7 @@ object Constants {
 
         questionsList.add(que9)
 
+        /*
         // 10
         val que10 = Question(
             10, "What country does this flag belong to?",
@@ -104,6 +105,7 @@ object Constants {
         )
 
         questionsList.add(que10)
+        */
 
         return questionsList
     }
